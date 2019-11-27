@@ -30,7 +30,7 @@ Markdown cells were used to assist in walking through the thought process for in
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@chrrhyghy/data-analysis-result-for-stackoverflow-2017-data-8fc659ce2a38).
+The main findings of the code can be found at the post available [here](https://medium.com/@chrrhyghy/predicting-user-churn-with-spark-machine-learning-e25a3ca6acfc).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
